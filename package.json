@@ -1,0 +1,19 @@
+{
+  "name": "image-warp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.5.0",
+    "dat.gui": "^0.7.9",
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "three": "^0.140.0"
+  }
+}
